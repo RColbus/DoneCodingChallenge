@@ -1,0 +1,12 @@
+.grid{
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    outline: black;
+    padding: 2rem 15px 2rem 2rem;
+}
+
+.title {
+    text-align: center;
+}

@@ -1,0 +1,32 @@
+.grid{
+    align-content: center;
+}
+
+.centerouter {
+
+    flex-wrap: wrap;
+    border: 3px solid var(--color-primary-200);
+    font-size: small;
+    padding: 1rem;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.title {
+    font-size: var(--size-6);
+    margin: var(--size-1) 0;
+    color: var(--color-grey-900);
+    text-align: center;
+}
+
+.inputfield{
+    background-color: var(--color-grey-200);
+    color: black;
+}
+
+.div{
+    color: black;
+    padding-left: 25px;
+    padding-top: 25px;
+}

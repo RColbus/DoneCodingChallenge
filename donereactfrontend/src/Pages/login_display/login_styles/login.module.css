@@ -1,0 +1,22 @@
+.grid{
+    align-content: center;
+}
+
+.centerouter {
+    margin: auto;
+    width: 50%;
+    border: 3px solid var(--color-primary-400);
+    padding: 10px;
+    text-align: center;
+}
+
+.title {
+    font-size: var(--size-6);
+    margin: var(--size-1) 0;
+    color: var(--color-grey-900);
+    text-align: center;
+}
+
+.submitbutton {
+    text-decoration: #5a097a;
+}
